@@ -1,6 +1,7 @@
-### Hi! I'm Alessandra 👋
+### Hi! I'm Alessandra! 👋
 
-Passionate for developing solutions that can impact people's lives!
+Nice to meet you!
+I'm passionate for developing solutions that can impact people's lives!
 <!--
 **aleoestreich/aleoestreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
